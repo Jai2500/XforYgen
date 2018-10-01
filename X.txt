@@ -24,6 +24,7 @@ Canadian Tire
 Canon
 Canonical
 Canva
+Cengage
 Chipotle
 Christian Mingle
 CNN
@@ -35,6 +36,7 @@ Dell
 Discord
 Dropbox
 Dropbox
+EDx
 Electonic Arts
 ELEKS
 Equifax
@@ -47,6 +49,7 @@ Fiverr
 Flickr
 Flipkart
 Food
+Foodpanda
 Forbes
 Fox News
 Fruit Loops
@@ -58,6 +61,8 @@ Google Fit
 Google Glass
 Google Hangout
 Grindr
+Head & Shoulders
+Haldirams
 Hard Bass
 Harvard
 Hewlett Packard
@@ -79,9 +84,11 @@ Jockey
 Kiwix
 KPMG
 Lenovo
+Lifebuoy
 LinkedIn
 LinkedIn
 Lyft
+Marvel
 Mathematics
 McDonald's
 Medium
@@ -99,6 +106,7 @@ Napster
 Netflix
 Nike
 Nikon
+Nivea
 Nutella
 NY Times
 Palm Pilots
@@ -111,6 +119,7 @@ Pinterest
 Pinterest
 Podcasts
 Pornhub
+Pringles
 ProtonMail
 Reddit
 Reddit
@@ -132,6 +141,8 @@ Spotify
 Spotify
 Steam
 Stubhub
+Team Speak
+Tacobell
 Ted-Ed
 Telegram
 Tidal
@@ -152,11 +163,14 @@ Venmo
 Viber
 Victoria's Secret
 Vimeo
+Vine
 Waze
 Wealthfront
 WeWork
 Whatsapp
+Willey Publications
 Xiaomi
+Yahoo mail
 Yahoo Answers
 Yearbook
 Yelp
